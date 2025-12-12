@@ -70,6 +70,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2144-maximum-difference-between-increasing-elements) |
