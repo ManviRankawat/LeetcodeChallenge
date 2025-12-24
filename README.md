@@ -80,6 +80,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2227-sum-of-subarray-ranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -122,6 +123,7 @@
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -396,6 +398,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 ## Matrix
 |  |
 | ------- |
