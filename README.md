@@ -62,6 +62,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0526-beautiful-arrangement](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [0605-can-place-flowers](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0605-can-place-flowers) |
@@ -359,6 +360,7 @@
 | [0190-reverse-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0427-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting Sort
 |  |
@@ -415,6 +417,7 @@
 | [0212-word-search-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0427-construct-quad-tree) |
 | [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0909-snakes-and-ladders) |
@@ -483,6 +486,7 @@
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0337-house-robber-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0337-house-robber-iii) |
+| [0427-construct-quad-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
