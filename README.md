@@ -25,6 +25,7 @@
 | [0068-text-justification](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -332,6 +333,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0190-reverse-bits) |
@@ -600,6 +602,7 @@
 | [0039-combination-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
