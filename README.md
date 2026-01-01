@@ -107,6 +107,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0647-palindromic-substrings) |
@@ -125,6 +126,7 @@
 | [0217-contains-duplicate](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0502-ipo) |
@@ -393,6 +395,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
 ## Randomized
@@ -647,6 +650,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -713,4 +717,8 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1925-count-square-sum-triples) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
