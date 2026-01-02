@@ -77,6 +77,7 @@
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0909-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
@@ -165,6 +166,7 @@
 | [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0433-minimum-genetic-mutation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
 | [3606-coupon-code-validator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
