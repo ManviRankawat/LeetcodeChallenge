@@ -88,6 +88,7 @@
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2227-sum-of-subarray-ranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3074-apple-redistribution-into-boxes) |
@@ -170,6 +171,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3606-coupon-code-validator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
