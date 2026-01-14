@@ -87,6 +87,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -119,6 +120,7 @@
 | [0443-string-compression](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3606-coupon-code-validator) |
 ## Hash Table
@@ -175,6 +178,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1207-unique-number-of-occurrences) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3606-coupon-code-validator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
