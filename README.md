@@ -224,6 +224,7 @@
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2580-circular-sentence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2580-circular-sentence) |
@@ -341,6 +342,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
