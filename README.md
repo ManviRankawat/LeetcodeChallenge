@@ -80,6 +80,7 @@
 | [0909-snakes-and-ladders](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0909-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
@@ -342,6 +343,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
@@ -360,6 +362,7 @@
 | [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0300-longest-increasing-subsequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
@@ -429,6 +432,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
 ## Greedy
 |  |
