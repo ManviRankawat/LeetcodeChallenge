@@ -87,6 +87,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -263,6 +264,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1137-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -345,6 +347,7 @@
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
