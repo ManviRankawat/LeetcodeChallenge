@@ -90,6 +90,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -437,6 +438,7 @@
 | [0238-product-of-array-except-self](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
+| [1732-find-the-highest-altitude](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
