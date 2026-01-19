@@ -75,6 +75,7 @@
 | [0605-can-place-flowers](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0724-find-pivot-index) |
 | [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0909-snakes-and-ladders) |
@@ -436,6 +437,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
 | [1732-find-the-highest-altitude](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
