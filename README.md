@@ -98,6 +98,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2227-sum-of-subarray-ranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3074-apple-redistribution-into-boxes) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -386,6 +387,7 @@
 | [0526-beautiful-arrangement](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
