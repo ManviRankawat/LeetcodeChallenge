@@ -123,6 +123,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -222,6 +223,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0433-minimum-genetic-mutation) |
@@ -264,6 +266,7 @@
 | [0322-coin-change](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0392-is-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
