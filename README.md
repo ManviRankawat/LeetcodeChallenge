@@ -106,6 +106,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Math
 |  |
 | ------- |
@@ -500,6 +502,7 @@
 | [0909-snakes-and-ladders](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0909-snakes-and-ladders) |
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
 | ------- |
