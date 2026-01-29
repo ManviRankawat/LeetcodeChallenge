@@ -78,6 +78,7 @@
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0724-find-pivot-index) |
 | [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0909-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
@@ -281,6 +282,7 @@
 | [0526-beautiful-arrangement](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1137-n-th-tribonacci-number) |
