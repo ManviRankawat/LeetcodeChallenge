@@ -570,6 +570,7 @@
 | [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0337-house-robber-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0337-house-robber-iii) |
 | [0427-construct-quad-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0427-construct-quad-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
@@ -662,6 +663,7 @@
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0337-house-robber-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
@@ -677,6 +679,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
+| [0450-delete-node-in-a-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
