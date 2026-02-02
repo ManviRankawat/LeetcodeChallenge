@@ -347,6 +347,7 @@
 | [0148-sort-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -358,6 +359,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
