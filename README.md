@@ -108,6 +108,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3637-trionic-array-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Two Pointers
 |  |
