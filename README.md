@@ -100,6 +100,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2227-sum-of-subarray-ranges) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -139,6 +140,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3606-coupon-code-validator) |
@@ -399,6 +402,7 @@
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
