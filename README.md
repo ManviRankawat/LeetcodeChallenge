@@ -41,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Array
+|  |
+| ------- |
+| [3026-maximum-good-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3026-maximum-good-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [3026-maximum-good-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3026-maximum-good-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3026-maximum-good-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3026-maximum-good-subarray-sum) |
 <!---LeetCode Topics End-->
