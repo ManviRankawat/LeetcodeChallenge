@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 ## Tree
 |  |
 | ------- |
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3026-maximum-good-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3026-maximum-good-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
