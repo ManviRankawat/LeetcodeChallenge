@@ -96,9 +96,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
