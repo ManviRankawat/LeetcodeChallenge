@@ -8,8 +8,7 @@ class Solution(object):
 
         for c in s:
             if c == "*":
-                if stack:
-                    stack.pop()
+                stack and stack.pop()
             else:
                 stack.append(c)
 
