@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0849-maximize-distance-to-closest-person](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0113-path-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
