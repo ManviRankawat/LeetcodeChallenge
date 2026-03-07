@@ -16,8 +16,6 @@ class Solution(object):
         if not root:
             return False
 
-        
-
         def sameTree(root, subRoot):
             if not root and not subRoot:
                 return True
