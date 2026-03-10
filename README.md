@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
