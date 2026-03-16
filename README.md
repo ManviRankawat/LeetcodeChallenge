@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0560-subarray-sum-equals-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
