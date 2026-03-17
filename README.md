@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0735-asteroid-collision) |
 | [0849-maximize-distance-to-closest-person](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1929-concatenation-of-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1929-concatenation-of-array) |
 | [3026-maximum-good-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3026-maximum-good-subarray-sum) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Union-Find
 |  |
