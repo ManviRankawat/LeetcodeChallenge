@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0649-dota2-senate) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
