@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0394-decode-string) |
 ## Greedy
 |  |
