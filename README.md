@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [0849-maximize-distance-to-closest-person](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
