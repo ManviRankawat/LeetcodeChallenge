@@ -11,11 +11,14 @@ class Solution(object):
         """
         prev = None
         curr = head
+        
 
-        while curr is not None:
+        while curr:
             nxt = curr.next
             curr.next = prev
             prev = curr
             curr = nxt
 
         return prev
+
+        
