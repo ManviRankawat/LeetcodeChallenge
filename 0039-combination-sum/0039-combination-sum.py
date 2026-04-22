@@ -1,0 +1,23 @@
+class Solution(object):
+    def combinationSum(self, candidates, target):
+        """
+        :type candidates: List[int]
+        :type target: int
+        :rtype: List[List[int]]
+        """
+        res = []
+
+        def dfs(i, cur, sum):
+            if target == sum:
+                res.append(list(cur))
+                return
+            if i >= len(candidates) or sum > target:
+                return
+
+            cur.append(candidates[i])
+            dfs(i, cur, sum + candidates[i])
+            cur.pop()
+            dfs(i+1, cur, sum)
+
+        dfs(0, [], 0)
+        return res
