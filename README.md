@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0394-decode-string) |
