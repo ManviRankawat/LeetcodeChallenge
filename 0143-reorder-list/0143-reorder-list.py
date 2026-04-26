@@ -5,43 +5,26 @@
 #         self.next = next
 class Solution(object):
     def reorderList(self, head):
-        """
-        :type head: Optional[ListNode]
-        :rtype: None Do not return anything, modify head in-place instead.
-        """
-        """
-        Do not return anything, modify head in-place instead.
-        """
-		
-		# ----------------------------------------------
-		# Save linked list in array
-		
-        arr = []
-        
-        cur, length = head, 0
-		
-        while cur:
-            arr.append( cur )
-            cur, length = cur.next, length + 1
-        
-		# ----------------------------------------------
-        # Reorder with two-pointers
-		
-        left, right = 0, length-1
-        last = head
-        
-        while left < right:
-            arr[left].next = arr[right]
-            left += 1
-            
-            if left == right: 
-                last = arr[right]
-                break
-                
-            arr[right].next = arr[left]
-            right -= 1
-            
-            last = arr[left]
-        
-        if last:
-            last.next= None
+        slow = fast = head 
+
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+
+        second = slow.next
+        prev = slow.next = None
+
+        # Reverse the second half
+        while second:
+            tmp = second.next
+            second.next = prev
+            prev = second
+            second = tmp  
+
+        # Merge 2 lists
+        first, second = head, prev
+        while second:
+            temp1, temp2 = first.next, second.next
+            first.next = second
+            second.next = temp1
+            first, second = temp1, temp2
