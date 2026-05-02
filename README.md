@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
+| [0788-rotated-digits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0788-rotated-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
+| [0788-rotated-digits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0790-domino-and-tromino-tiling) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## String Matching
