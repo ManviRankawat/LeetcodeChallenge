@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0796-rotate-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
