@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0796-rotate-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Tree
 |  |
 | ------- |
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
