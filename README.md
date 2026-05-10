@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
 | [0788-rotated-digits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0790-domino-and-tromino-tiling) |
