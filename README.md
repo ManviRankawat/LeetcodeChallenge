@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0849-maximize-distance-to-closest-person](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1470-shuffle-the-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [3026-maximum-good-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3026-maximum-good-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 ## Shortest Path
 |  |
 | ------- |
