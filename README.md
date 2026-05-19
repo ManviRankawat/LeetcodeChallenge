@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0261-graph-valid-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0437-path-sum-iii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0547-number-of-provinces) |
@@ -186,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0684-redundant-connection) |
