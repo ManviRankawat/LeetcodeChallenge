@@ -5,7 +5,6 @@ class Solution(object):
         :type trust: List[List[int]]
         :rtype: int
         """
-
         if n == 1 and len(trust) == 0:
             return 1
             
