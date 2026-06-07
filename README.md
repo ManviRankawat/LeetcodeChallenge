@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Monotonic Stack
 |  |
@@ -318,4 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2833-furthest-point-from-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
