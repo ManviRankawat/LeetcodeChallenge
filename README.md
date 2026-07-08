@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [0849-maximize-distance-to-closest-person](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0957-prison-cells-after-n-days](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0957-prison-cells-after-n-days) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1046-last-stone-weight) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0957-prison-cells-after-n-days](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0957-prison-cells-after-n-days) |
 | [0997-find-the-town-judge](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2336-smallest-number-in-infinite-set) |
 | [3026-maximum-good-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3026-maximum-good-subarray-sum) |
@@ -190,12 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0788-rotated-digits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0788-rotated-digits) |
+| [0957-prison-cells-after-n-days](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0957-prison-cells-after-n-days) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
+| [0957-prison-cells-after-n-days](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0957-prison-cells-after-n-days) |
 ## Simulation
 |  |
 | ------- |
