@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0788-rotated-digits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0788-rotated-digits) |
 | [0957-prison-cells-after-n-days](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0957-prison-cells-after-n-days) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -374,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0157-read-n-characters-given-read4](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0157-read-n-characters-given-read4) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
