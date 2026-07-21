@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0157-read-n-characters-given-read4](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0157-read-n-characters-given-read4) |
 | [0163-missing-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0163-missing-ranges) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0143-reorder-list) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0170-two-sum-iii-data-structure-design) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -379,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Data Stream
+|  |
+| ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0170-two-sum-iii-data-structure-design) |
 <!---LeetCode Topics End-->
