@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0957-prison-cells-after-n-days](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0957-prison-cells-after-n-days) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Simulation
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0790-domino-and-tromino-tiling) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## String Matching
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0649-dota2-senate) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Queue
 |  |
 | ------- |
