@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
 | [0788-rotated-digits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0788-rotated-digits) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0055-jump-game) |
 | [0649-dota2-senate](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0649-dota2-senate) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Queue
